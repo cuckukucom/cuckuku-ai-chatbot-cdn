@@ -153,4 +153,4 @@ This project is licensed under the MIT License.
 
 If you encounter any issues or have questions, please [open an issue](https://github.com/cuckukucom/cuckuku-ai-chatbot-cdn/issues) on GitHub. -->
 
-## Just git add, commit, push and you are done
+## Just git add, commit, push, git tag ... and you are done
